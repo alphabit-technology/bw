@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "bw",
-    "version": "1.0.47"
+    "version": "1.0.49"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "bw",
       "description": "BW Construction",
-      "version": "1.0.47",
+      "version": "1.0.49",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
@@ -38,6 +38,49 @@
       "rounded": "full",
       "solid": 1,
       "opacity": "",
+      "menu_items": [
+        {
+          "parent_document": "App",
+          "name": "v8esPyVl6xh1nT4",
+          "page": "Bw Home",
+          "link": "Home",
+          "parent_menu": null,
+          "document_parent_name": null
+        },
+        {
+          "parent_document": "App",
+          "name": "Ke8I57B7q53NscT",
+          "page": "Bw About",
+          "link": "About",
+          "parent_menu": null,
+          "document_parent_name": null
+        },
+        {
+          "parent_document": "App",
+          "name": "jxBLHQXRba5S19o",
+          "page": "Bw Services",
+          "link": "Services",
+          "parent_menu": null,
+          "document_parent_name": null
+        },
+        {
+          "parent_document": "App",
+          "name": "g2kGMOJgriHTl78",
+          "page": "Bw Review",
+          "link": "Reviews",
+          "parent_menu": null,
+          "document_parent_name": null
+        },
+        {
+          "parent_document": "App",
+          "name": "nVYWnBXGDrLqf3l",
+          "page": "Bw Contact",
+          "link": "Contact",
+          "parent_menu": null,
+          "document_parent_name": null
+        }
+      ],
+      "menu_actions": [],
       "info": ""
     },
     "Entity:Module Group": {
