@@ -1,0 +1,6 @@
+{
+  "name": "Bw Review",
+  "module": "bw",
+  "doc_structure": "[{\"node\":\"bwreview_section\",\"element\":\"section\",\"data\":{\"label\":\"ReviewSection\",\"animation_duration\":1000},\"elements\":[{\"node\":\"bwreview_widget\",\"element\":\"review\",\"data\":{\"label\":\"Reviews\",\"animation_duration\":1000,\"show_avg\":1,\"show_form\":1,\"require_rating\":1,\"message\":\"Did we work on your proyecr? We'd love to hear from you.\",\"reviews\":[]}}]}]",
+  "__ENTITY__": "Page Builder"
+}
