@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "bw",
-    "version": "1.0.46"
+    "version": "1.0.47"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,14 +17,14 @@
       "type": "Web App",
       "name": "bw",
       "description": "BW Construction",
-      "version": "1.0.46",
+      "version": "1.0.47",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
       "col_padding": "",
       "col_margin": "",
-      "logo": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image/png\"}]",
-      "logo_dark": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image/png\"}]",
+      "logo": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image\",\"src\":\"/assets/public/ChatGPT%20Image%20May%2010%2C%202026%2C%2011_30_46%20PM.png\"}]",
+      "logo_dark": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image\",\"src\":\"/assets/public/ChatGPT%20Image%20May%2010%2C%202026%2C%2011_30_46%20PM.png\"}]",
       "logo_mini": "[]",
       "logo_mini_dark": "[]",
       "favicon": "[]",
