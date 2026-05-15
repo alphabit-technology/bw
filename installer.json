@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "bw",
-    "version": "1.0.50"
+    "version": "1.0.56"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "bw",
       "description": "BW Construction",
-      "version": "1.0.50",
+      "version": "1.0.56",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
@@ -35,13 +35,14 @@
       "has_copyright": 1,
       "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  © 2026 **BW Construction**. All rights reserved. | Licensed & insured in Massachusetts\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
       "fixed": 1,
-      "rounded": "full",
-      "solid": 1,
+      "logo_position": "center",
+      "rounded": "sm",
+      "solid": 0,
       "opacity": "",
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "TIm3MpEktUh247x",
+          "name": "uqE5jYpJ804dRox",
           "page": "Bw Home",
           "link": "Home",
           "parent_menu": null,
@@ -49,7 +50,7 @@
         },
         {
           "parent_document": "App",
-          "name": "nvUhp6at4f8I12X",
+          "name": "sW539IaVBG2EDLC",
           "page": "Bw About",
           "link": "About",
           "parent_menu": null,
@@ -57,7 +58,7 @@
         },
         {
           "parent_document": "App",
-          "name": "xC4AUc0p7BTJLw8",
+          "name": "juRdBs4aLnx35Qm",
           "page": "Bw Services",
           "link": "Services",
           "parent_menu": null,
@@ -65,7 +66,7 @@
         },
         {
           "parent_document": "App",
-          "name": "LZNsclaU54j87R8",
+          "name": "vQ6TbyRJOpwCc2k",
           "page": "Bw Review",
           "link": "Reviews",
           "parent_menu": null,
@@ -73,7 +74,7 @@
         },
         {
           "parent_document": "App",
-          "name": "ax5R2hL67vwDAb2",
+          "name": "Fkxm7OX4yJI6SWw",
           "page": "Bw Contact",
           "link": "Contact",
           "parent_menu": null,
