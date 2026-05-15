@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "bw",
-    "version": "1.0.56"
+    "version": "1.0.57"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,17 +17,17 @@
       "type": "Web App",
       "name": "bw",
       "description": "BW Construction",
-      "version": "1.0.56",
+      "version": "1.0.57",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
       "col_padding": "",
       "col_margin": "",
-      "logo": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image\",\"src\":\"/assets/public/ChatGPT%20Image%20May%2010%2C%202026%2C%2011_30_46%20PM.png\"}]",
-      "logo_dark": "[{\"name\":\"ChatGPT Image May 10, 2026, 11_30_46 PM.png\",\"size\":657652,\"type\":\"image\",\"src\":\"/assets/public/ChatGPT%20Image%20May%2010%2C%202026%2C%2011_30_46%20PM.png\"}]",
-      "logo_mini": "[]",
-      "logo_mini_dark": "[]",
-      "favicon": "[]",
+      "logo": "[{\"name\":\"bw-logo.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1778811272/bw-logo.png\"}]",
+      "logo_dark": "[{\"name\":\"bw-logo.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1778811272/bw-logo.png\"}]",
+      "logo_mini": "[{\"name\":\"bw-logo.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1778811272/bw-logo.png\"}]",
+      "logo_mini_dark": "[{\"name\":\"bw-logo.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1778811272/bw-logo.png\"}]",
+      "favicon": "[{\"name\":\"bw-logo.png\",\"type\":\"image\",\"src\":\"https://res.cloudinary.com/dgkwgmipj/image/upload/v1778811272/bw-logo.png\"}]",
       "logo_width": 50,
       "logo_height": "10",
       "has_footer": 1,
@@ -42,7 +42,7 @@
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "uqE5jYpJ804dRox",
+          "name": "wWYcrM8DRn1V0Fj",
           "page": "Bw Home",
           "link": "Home",
           "parent_menu": null,
@@ -50,7 +50,7 @@
         },
         {
           "parent_document": "App",
-          "name": "sW539IaVBG2EDLC",
+          "name": "I73GoE3YuFOqMKv",
           "page": "Bw About",
           "link": "About",
           "parent_menu": null,
@@ -58,7 +58,7 @@
         },
         {
           "parent_document": "App",
-          "name": "juRdBs4aLnx35Qm",
+          "name": "Yw3PYxb7Gq08JH7",
           "page": "Bw Services",
           "link": "Services",
           "parent_menu": null,
@@ -66,7 +66,7 @@
         },
         {
           "parent_document": "App",
-          "name": "vQ6TbyRJOpwCc2k",
+          "name": "G1h8tTof1JF80y9",
           "page": "Bw Review",
           "link": "Reviews",
           "parent_menu": null,
@@ -74,7 +74,7 @@
         },
         {
           "parent_document": "App",
-          "name": "Fkxm7OX4yJI6SWw",
+          "name": "CFv3h0qQYWGkr61",
           "page": "Bw Contact",
           "link": "Contact",
           "parent_menu": null,
