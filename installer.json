@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "bw",
-    "version": "1.0.62"
+    "version": "1.0.67"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "bw",
       "description": "BW Construction",
-      "version": "1.0.62",
+      "version": "1.0.67",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
@@ -31,54 +31,60 @@
       "logo_width": 50,
       "logo_height": "10",
       "has_footer": 1,
-      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🏗️ BW Construction\r\n\r\n    Full-service construction and remodeling company serving Massachusetts. Over a decade of experience delivering quality craftsmanship for homes and businesses.\r\n\r\n    📍 **Service Area:** Massachusetts, USA\r\n    📞 **Phone:** (781) 855-6039\r\n    ✉️ **Email:** [brandomcardona0701@gmail.com](mailto\\:brandomcardona0701@gmail.com)\r\n\r\n    **Business Hours:**\r\n    **Monday – Friday:** 8:00 AM – 5:00 PM\r\n    **Saturday:** 8:00 AM – 2:00 PM\r\n    **Sunday:** Closed\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🔨 Our Services\r\n\r\n    * Decks & Patios\r\n    * Home Remodeling\r\n    * Room Additions\r\n    * Ceramic & Tile Work\r\n    * Bathroom Renovations\r\n    * Interior & Exterior Painting\r\n    * Free Estimates\r\n  </div>\r\n</div>",
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🏗️ BW Construction\r\n\r\n    Full-service construction and remodeling company serving Massachusetts. Over a decade of experience delivering quality craftsmanship for homes and businesses.\r\n\r\n    📍 **Service Area:** Massachusetts, USA\r\n    📞 **Phone:** (781) 855-6039\r\n    ✉️ **Email:** [brandoncardona0701@gmail.com](mailto\\:brandoncardona0701@gmail.com)\r\n\r\n    **Business Hours:**\r\n    **Monday – Friday:** 8:00 AM – 5:00 PM\r\n    **Saturday:** 8:00 AM – 2:00 PM\r\n    **Sunday:** Closed\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🔨 Our Services\r\n\r\n    * Decks & Patios\r\n    * Home Remodeling\r\n    * Room Additions\r\n    * Ceramic & Tile Work\r\n    * Bathroom Renovations\r\n    * Interior & Exterior Painting\r\n    * Free Estimates\r\n  </div>\r\n</div>",
       "has_copyright": 1,
       "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  © 2026 **BW Construction**. All rights reserved. | Licensed & insured in Massachusetts\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
       "fixed": 1,
       "logo_position": "center",
       "rounded": "sm",
+      "show_user_section": 0,
       "solid": 0,
       "opacity": "",
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "m4Vv01GDnru2tWq",
+          "name": "y45XojeMfq20816",
           "page": "Bw Home",
           "link": "Home",
           "parent_menu": null,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "router_only": 0
         },
         {
           "parent_document": "App",
-          "name": "JOFR9Ba5UTLCHIX",
+          "name": "Knv33JVj9MpRG0O",
           "page": "Bw About",
           "link": "About",
           "parent_menu": null,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "router_only": 0
         },
         {
           "parent_document": "App",
-          "name": "v9k609VUO01Hm84",
+          "name": "BKSMXkwtI5En0G1",
           "page": "Bw Services",
           "link": "Services",
           "parent_menu": null,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "router_only": 0
         },
         {
           "parent_document": "App",
-          "name": "LH1TLrf8AgKU11s",
+          "name": "tV78Bl6v38XT1eQ",
           "page": "Bw Review",
           "link": "Reviews",
           "parent_menu": null,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "router_only": 0
         },
         {
           "parent_document": "App",
-          "name": "T2441cFxq8TJ4QH",
+          "name": "osiv1m80hwkx71n",
           "page": "Bw Contact",
           "link": "Contact",
           "parent_menu": null,
-          "document_parent_name": null
+          "document_parent_name": null,
+          "router_only": 0
         }
       ],
       "menu_actions": [],
